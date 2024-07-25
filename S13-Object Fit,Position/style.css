@@ -1,0 +1,128 @@
+img{
+    width: 140px;
+    height: 300px;
+    display: inline-block;
+    border:0px solid white;
+    background-color: maroon;
+    margin: -5px;
+    box-shadow: 10px 10px 10px maroon;
+    
+}
+
+#duplessis{  
+    object-fit: cover;
+       object-position:-80px 120px;
+}
+
+#DK{
+    object-fit: cover;
+    object-position: -80px 90px;
+}
+
+
+#ferguson{
+    object-fit: cover;
+    object-position: -80px 70px;
+}
+
+#viratKohli{
+    object-fit: cover;
+    width: 150px;
+    border: 0px solid whitesmoke;
+    object-position: -80px 20px;
+
+}
+
+#maxwell{
+    object-fit: cover;
+    object-position: -80px 70px;
+}
+
+
+
+
+#green{
+    object-fit: cover;
+    object-position: -80px 90px;
+
+}
+
+#siraj{
+    object-fit: cover;
+   object-position:-80px 120px;
+}
+
+
+h1{
+   text-align: center;
+   color:blue;
+   margin-left: 300px;
+   width: 350px;
+   border: 13px solid maroon;
+   box-shadow: 10px 10px 10px black;
+   text-shadow: 10px 10px 10px maroon;
+}
+
+
+#viratKohli:hover{
+    background-color:whitesmoke;
+    border-radius: 30px;
+    width: 170px;
+}
+
+img:hover{
+    background-color: blue;
+}
+
+.player{
+    width: 140px;
+    height: 300px;
+    display: inline-block;
+    border:0px solid white;
+    background-color: blue;
+    margin: -5px;
+    box-shadow: 10px 10px 10px black;
+    object-fit: cover;
+    
+}
+
+#brevis{
+    object-position:-80px 140px;
+}
+
+#tilakVarma{
+    object-position:-80px 140px;
+}
+
+#ishanKishan{
+    object-position:-80px 110px;
+}
+
+#SKY{
+    object-position:-80px 110px;
+}
+
+#bumrah{
+    object-position:-80px 90px;
+}
+
+#HP{
+    object-position:-80px 90px;
+}
+
+#rohitSharma{
+    object-position:-80px 50px;
+    width: 160px;
+}
+
+ 
+ h2{
+    text-align: center;
+   color:black;
+   margin-left: 300px;
+   border: 20px groove blue;
+   width: 350px;
+   box-shadow: 10px 10px 10px black;
+   text-shadow: 10px 10px 30px blue;
+
+ }
